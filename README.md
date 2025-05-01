@@ -20,5 +20,5 @@ A responsive and modern login page built with HTML, CSS, and JavaScript, featuri
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/<geeta-seshapalli>/Responsive-login-and-registration-page.git
+git clone https://github.com/geeta-seshapalli/Responsive-login-and-registration-page.git
 cd Responsive-login-and-registration-page
